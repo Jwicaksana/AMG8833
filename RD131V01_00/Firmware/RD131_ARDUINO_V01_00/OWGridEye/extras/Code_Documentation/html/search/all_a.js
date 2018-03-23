@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['seti2cbridgeromid',['setI2CBridgeRomId',['../class_o_w_grid_eye.html#a49435ac2bef034d94ee78aa8a050bfe7',1,'OWGridEye']]],
+  ['setowswitchromid',['setOWSwitchRomId',['../class_o_w_grid_eye.html#a9fa2207ffcc5df11f6104603048a4a73',1,'OWGridEye']]],
+  ['shamg_5fpub_5fcmn_5fcalcave',['shAMG_PUB_CMN_CalcAve',['../grideye__api__lv2_8c.html#a2b38e25fac704988ab817ac42b4b39ec',1,'grideye_api_lv2.c']]],
+  ['shamg_5fpub_5fcmn_5fcalciir',['shAMG_PUB_CMN_CalcIIR',['../grideye__api__lv2_8c.html#a8accaf56271f6b61e680055184500d5c',1,'grideye_api_lv2.c']]],
+  ['shamg_5fpub_5fcmn_5fcalciir_5ff',['shAMG_PUB_CMN_CalcIIR_f',['../grideye__api__lv2_8c.html#afe9821dfadcc7e52dd5ac3b0fe42d0dd',1,'grideye_api_lv2.c']]],
+  ['shamg_5fpub_5fcmn_5fconvftos',['shAMG_PUB_CMN_ConvFtoS',['../grideye__api__lv1_8c.html#a6cc3fe4e8b6c0bc53e2f639684a984e6',1,'grideye_api_lv1.c']]],
+  ['shamg_5fpub_5ftmp_5fconvtemperature',['shAMG_PUB_TMP_ConvTemperature',['../grideye__api__lv1_8c.html#a8d6090c07e9aa99c403f460e9a4f7cfd',1,'grideye_api_lv1.c']]],
+  ['shamg_5fpub_5ftmp_5fconvthermistor',['shAMG_PUB_TMP_ConvThermistor',['../grideye__api__lv1_8c.html#a189b04a9ff24b5b3bc7fa6bdb974fb78',1,'grideye_api_lv1.c']]],
+  ['short_5fmax_5fval',['SHORT_MAX_VAL',['../grideye__api__lv2_8c.html#ad53297e095319fcbde951a7159ea464b',1,'grideye_api_lv2.c']]],
+  ['short_5fmin_5fval',['SHORT_MIN_VAL',['../grideye__api__lv2_8c.html#ab63e7abc3829bbf4580abaa63f5f12db',1,'grideye_api_lv2.c']]],
+  ['snr_5fsz',['SNR_SZ',['../grideye__api__lv1_8c.html#a477c120159571a1f898741861a841df2',1,'SNR_SZ():&#160;grideye_api_lv1.c'],['../grideye__api__lv2_8c.html#a477c120159571a1f898741861a841df2',1,'SNR_SZ():&#160;grideye_api_lv2.c']]],
+  ['snr_5fsz_5fx',['SNR_SZ_X',['../grideye__api__lv1_8c.html#a67d0657b445e09dabf70335032089101',1,'SNR_SZ_X():&#160;grideye_api_lv1.c'],['../grideye__api__lv2_8c.html#a67d0657b445e09dabf70335032089101',1,'SNR_SZ_X():&#160;grideye_api_lv2.c']]],
+  ['snr_5fsz_5fy',['SNR_SZ_Y',['../grideye__api__lv1_8c.html#a100cb2f2e3eed349ec4dfa350192991d',1,'SNR_SZ_Y():&#160;grideye_api_lv1.c'],['../grideye__api__lv2_8c.html#a100cb2f2e3eed349ec4dfa350192991d',1,'SNR_SZ_Y():&#160;grideye_api_lv2.c']]],
+  ['status',['STATUS',['../class_o_w_grid_eye.html#a3be3cd1a52c33c6f9f9e7df2b9f4ed50aac6a763203ae1dbbc7f7f424771cd7a9',1,'OWGridEye']]],
+  ['status_5fclear',['STATUS_CLEAR',['../class_o_w_grid_eye.html#a3be3cd1a52c33c6f9f9e7df2b9f4ed50a4df45b3f62dfa4cd1ed1fc908b76da16',1,'OWGridEye']]],
+  ['success',['Success',['../class_o_w_grid_eye.html#a39a820a61587675d1964d5c548dda5b8ae036980b1f558844f51dcc2546e8071e',1,'OWGridEye']]]
+];

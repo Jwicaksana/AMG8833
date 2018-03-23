@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['bamg_5fpub_5fbgt_5fupdatebacktemp',['bAMG_PUB_BGT_UpdateBackTemp',['../grideye__api__lv2_8c.html#ab3ff77ae42bf1b40bfdd48e2e3222360',1,'grideye_api_lv2.c']]],
+  ['bamg_5fpub_5ffea_5fcalcarea',['bAMG_PUB_FEA_CalcArea',['../grideye__api__lv2_8c.html#a4d04e38ab013f0696355f122cbadebcc',1,'grideye_api_lv2.c']]],
+  ['bamg_5fpub_5ffea_5fcalcavetemp',['bAMG_PUB_FEA_CalcAveTemp',['../grideye__api__lv2_8c.html#a4b4c05edab622adeb1dc6266ce8e48d4',1,'grideye_api_lv2.c']]],
+  ['bamg_5fpub_5ffea_5fcalccentertemp',['bAMG_PUB_FEA_CalcCenterTemp',['../grideye__api__lv2_8c.html#a73a67422df6d3875f400c56bae1cb1ee',1,'grideye_api_lv2.c']]],
+  ['bamg_5fpub_5ffea_5fcalccentertemp_5ff',['bAMG_PUB_FEA_CalcCenterTemp_f',['../grideye__api__lv2_8c.html#ae1bf0e4409b258058ac60677cc1a1eb1',1,'grideye_api_lv2.c']]],
+  ['bamg_5fpub_5ffea_5fcalcmaxtemp',['bAMG_PUB_FEA_CalcMaxTemp',['../grideye__api__lv2_8c.html#a6aaa02d2b2214c5ce731525fee8454e0',1,'grideye_api_lv2.c']]],
+  ['bamg_5fpub_5ffea_5fcalcmintemp',['bAMG_PUB_FEA_CalcMinTemp',['../grideye__api__lv2_8c.html#a85bfc92feb1413d81b8a14d26cdd5759',1,'grideye_api_lv2.c']]],
+  ['bamg_5fpub_5ffea_5fcalcrectangle',['bAMG_PUB_FEA_CalcRectangle',['../grideye__api__lv2_8c.html#a2bcc058100ce99476c179e0384d86e73',1,'grideye_api_lv2.c']]],
+  ['bamg_5fpub_5ffea_5fcalcstddevtemp',['bAMG_PUB_FEA_CalcStdDevTemp',['../grideye__api__lv2_8c.html#a50f6ab8ad896d66fb8dc90eb1b273360',1,'grideye_api_lv2.c']]],
+  ['bamg_5fpub_5ffea_5fcalcstddevtemp_5ff',['bAMG_PUB_FEA_CalcStdDevTemp_f',['../grideye__api__lv2_8c.html#ab8788b23a38d55e8aedc88a8081f18d0',1,'grideye_api_lv2.c']]],
+  ['bamg_5fpub_5fhdt_5fjudgehuman',['bAMG_PUB_HDT_JudgeHuman',['../grideye__api__lv2_8c.html#abd3d0d099bc5b983cb7a6a384d8fd129',1,'grideye_api_lv2.c']]],
+  ['bamg_5fpub_5fi2c_5fread',['bAMG_PUB_I2C_Read',['../grideye__api__lv1_8c.html#aefabe2c006a7858ab10a85416a60542c',1,'grideye_api_lv1.c']]],
+  ['bamg_5fpub_5fimg_5fconvertflipxy',['bAMG_PUB_IMG_ConvertFlipXY',['../grideye__api__lv2_8c.html#a380145d5645bd80b4e379a9496ea59f2',1,'grideye_api_lv2.c']]],
+  ['bamg_5fpub_5fimg_5fconvertrotate270',['bAMG_PUB_IMG_ConvertRotate270',['../grideye__api__lv2_8c.html#ab8938bf8fc3a9c0b86cfe28a6cd85add',1,'grideye_api_lv2.c']]],
+  ['bamg_5fpub_5fimg_5fconvertrotate90',['bAMG_PUB_IMG_ConvertRotate90',['../grideye__api__lv2_8c.html#a1cd8e4bc605b22ea173dfc92ed193f5b',1,'grideye_api_lv2.c']]],
+  ['bamg_5fpub_5fimg_5fimagedilation1',['bAMG_PUB_IMG_ImageDilation1',['../grideye__api__lv2_8c.html#a73b330dc7fe414aabf464fd7bc5d9338',1,'grideye_api_lv2.c']]],
+  ['bamg_5fpub_5fimg_5fimagedilation2',['bAMG_PUB_IMG_ImageDilation2',['../grideye__api__lv2_8c.html#a09a338f26e1b4a39ae5e15518f0434db',1,'grideye_api_lv2.c']]],
+  ['bamg_5fpub_5fimg_5flinearinterpolation',['bAMG_PUB_IMG_LinearInterpolation',['../grideye__api__lv2_8c.html#a3e1fbffcbad0dc70e8ff4908d2d67e07',1,'grideye_api_lv2.c']]],
+  ['bamg_5fpub_5fimg_5flinearinterpolationsq15',['bAMG_PUB_IMG_LinearInterpolationSQ15',['../grideye__api__lv2_8c.html#af55bb825f53b3ab481ef184bcd6e73dc',1,'grideye_api_lv2.c']]],
+  ['bamg_5fpub_5fout_5fcalcoutimage',['bAMG_PUB_OUT_CalcOutImage',['../grideye__api__lv2_8c.html#a5ab44c9709301f9f7ed57eb541d4bff9',1,'grideye_api_lv2.c']]],
+  ['bamg_5fpub_5fout_5fcalcoutimage_5ff',['bAMG_PUB_OUT_CalcOutImage_f',['../grideye__api__lv2_8c.html#ab2658f99fb856ae7787fbe9eb4293bd5',1,'grideye_api_lv2.c']]],
+  ['bool',['BOOL',['../grideye__api__common_8h.html#a67bb6a3d7ee6a2a5950ce437abbe31c8',1,'grideye_api_common.h']]]
+];
